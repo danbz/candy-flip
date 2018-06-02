@@ -14,7 +14,9 @@ http://www.youtube.com/user/TectonicRecordings
 controls
 
 f - toggle fullscreen
+
 g - toggle gui layer on/off
+
 v - toggle video layer on/off
 
 rename file in data folder to video.mp4 to include your own videos.
