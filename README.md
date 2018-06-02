@@ -11,7 +11,7 @@ The track is from the EP Advanced Aerial Threat , Released on fabled Bristol lab
 http://tectonicrecordings.com/
 http://www.youtube.com/user/TectonicRecordings
 
-controls
+# controls
 
 f - toggle fullscreen
 
@@ -20,6 +20,9 @@ g - toggle gui layer on/off
 v - toggle video layer on/off
 
 rename file in data folder to video.mp4 to include your own videos.
+
+[ ![candy flip](http://buzzo.com/wp-content/uploads/2018/06/Candy-Flip-4k.jpg) ](http://buzzo.com/candy-flip-360-cv-processed-music-video-for-hugo-massien//)
+
 
 Based on oFxCV example source from Kyle Mcdonald
 
