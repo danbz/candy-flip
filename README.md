@@ -24,6 +24,6 @@ rename file in data folder to video.mp4 to include your own videos.
 [ ![candy flip](http://buzzo.com/wp-content/uploads/2018/06/Candy-Flip-4k.jpg) ](http://buzzo.com/candy-flip-360-cv-processed-music-video-for-hugo-massien//)
 
 
-Based on oFxCV example source from Kyle Mcdonald
+Based on ofxCv example source from Kyle Mcdonald
 
 https://github.com/kylemcdonald/ofxCv
