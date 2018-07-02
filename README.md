@@ -8,6 +8,8 @@ The source code for the computer vision processing software is released open sou
 
 The track is from the EP Advanced Aerial Threat , Released on fabled Bristol label Tectonic on June 9th 2018
 
+see the original video on youTube https://www.youtube.com/watch?v=yLZUsieboyk
+
 http://tectonicrecordings.com/
 
 http://www.youtube.com/user/TectonicRecordings
